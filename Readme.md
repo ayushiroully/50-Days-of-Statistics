@@ -10,4 +10,6 @@ This blog aimed at the machine learning and data science enthusiasts, who want t
 
 * Implement the concept with Python to understand better from the programmer perspective.
 
-## Structure of Data | Day 1  
+## Day 1 : Structure of Data
+
+If you work in banking, healthcare, retail, shipping, or any other domain or whatever your interests, you will undoubtedly have come across a story about how “data” is changing the world we live in, and how artificial intelligence is creating a vast transformation. But to understand how data is changing the world first we need to understand what is data, how it is collected and what is its structure.
